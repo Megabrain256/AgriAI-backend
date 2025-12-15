@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic<2,>=1.10.16  # Required by vulavula SDK
+python-multipart
+vulavula
